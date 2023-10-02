@@ -1,5 +1,8 @@
 # flutter_cookbook_prac  - DOG & CAT
 I tried to generate random dog and cat images using the API. I tried to use async and await to get the data from the API.
+### Practiced topics:
+- [x] The Future is Now: Introduction to Asynchronous Programming
+- [x] Data Persistence and Communicating with the Internet
 
 ## Some Screenshots
 ### Cute Look
