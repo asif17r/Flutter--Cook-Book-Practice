@@ -1,16 +1,18 @@
-# flutter_cookbook_prac
+# flutter_cookbook_prac  - DOG & CAT
+I tried to generate random dog and cat images using the API. I tried to use async and await to get the data from the API.
 
-A new Flutter project.
+## Some Screenshots
+### Cute Look
+<img src = "assets/cute_look.png">   
 
-## Getting Started
+### Festive Time
+<img src = "assets/festive_time.png">   
 
-This project is a starting point for a Flutter application.
+### Good Night
+<img src = "assets/good_night.png">
 
-A few resources to get you started if this is your first Flutter project:
+### Loading Screen
+<img src = "assets/loading_screen.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Play X Sleep
+<img src = "assets/play_or_sleep.png">
