@@ -1,0 +1,12 @@
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/flutter_cookbook_prac
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/asif/Documents/GitHub/Flutter--Cook-Book-Practice/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
