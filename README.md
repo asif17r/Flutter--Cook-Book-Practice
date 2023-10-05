@@ -4,6 +4,9 @@ I tried to generate random dog and cat images using the API. I tried to use asyn
 - [x] The Future is Now: Introduction to Asynchronous Programming
 - [x] Data Persistence and Communicating with the Internet
 
+## App Demo
+<img src = "assets/video.gif">
+
 ## Some Screenshots
 ### Cute Look
 <img src = "assets/cute_look.png">   
